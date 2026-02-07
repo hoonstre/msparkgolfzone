@@ -1,0 +1,7 @@
+{
+  "name": "MS 파크골프존 (MS Park Golf Zone)",
+  "description": "프리미엄 파크골프 경험을 제공하는 MS 파크골프존의 공식 홈페이지입니다. 시설 안내, 예약 및 AI 가이드를 제공합니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
